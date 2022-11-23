@@ -23,7 +23,7 @@
   "homepage": "https://github.com/keldenl/StairsGame-Phaser#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "engines": {
     "node": "12.18.2"
